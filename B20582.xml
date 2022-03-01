@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Supplement of original papers and letters relating to the Scots company Trading to Africa and the Indies</title>
+            <author>Company of Scotland Trading to Africa and the Indies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20582</idno>
+            <idno type="STC">Wing C5599D</idno>
+            <idno type="EEBO-CITATION">16998531</idno>
+            <idno type="OCLC">ocm 16998531</idno>
+            <idno type="VID">206268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1612:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Supplement of original papers and letters relating to the Scots company Trading to Africa and the Indies</title>
+                  <author>Company of Scotland Trading to Africa and the Indies.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies.</term>
+               <term>Scotland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206268:1"/>
+            <pb facs="tcp:206268:2" rendition="simple:additions"/>
+            <p>A SUPPLEMENT OF Original Papers AND LETTERS, RELATING To the <hi>Scots</hi> Company Trading to <hi>Africa</hi> and the <hi>Indies.</hi>
+            </p>
+            <p>
+               <hi>Anno Dom.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:206268:3"/>
+            <pb n="3" facs="tcp:206268:3"/>
+            <div type="letter">
+               <head>To the Honourable My Lord <hi>Seafield,</hi> Secretary for the Kingdom of <hi>SCOTLAND.</hi>
+               </head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>THis is by Order of the Council General of the Company of <hi>Scotland,</hi> Trading to <hi>Africa</hi> and the <hi>Indies,</hi> to acquaint your Lord<g ref="char:EOLhyphen"/>ſhip, That we have prevail'd upon Lord <hi>Baſil Hamilton</hi> to be at the trouble of going up with an Addreſs to His Majeſty from our ſaid Coun<g ref="char:EOLhyphen"/>cil-General, on behalf of Captain <hi>Rob. Pinckar<g ref="char:EOLhyphen"/>tan,</hi> and Thirty more, who were wrongfully detain'd Priſoners at <hi>Carthagena</hi> ſince the be<g ref="char:EOLhyphen"/>ginning of <hi>Feb.</hi> laſt, and (as we are inform'd) are moſt inhumanely treated.</p>
+               <p>We are daily importun'd by their Relations (who are very conſiderable) for their Relief; and it is of great concern to our Company, that ſomething material be ſpeedily done there<g ref="char:EOLhyphen"/>in, not only for the ſake of the ſaid Priſoners, but alſo that others may thereby ſee, we do not abandon the Intereſt of ſuch as engage themſelves in our Company's Service.</p>
+               <pb n="4" facs="tcp:206268:4"/>
+               <p>Lord <hi>Baſil Hamilton</hi> is fully inſtructed in all matters relating to the ſaid Addreſs, and o<g ref="char:EOLhyphen"/>ther Affairs relating to our Company, of which he'll inform your Lordſhip. Wherefore we intreat that your Lordſhip be pleas'd to intro<g ref="char:EOLhyphen"/>duce him to His Majeſty, in preſenting of the ſaid Addreſs; and to aſſiſt him in procuring a gracious return from His Majeſty; in the con<g ref="char:EOLhyphen"/>fidence whereof, I remain,</p>
+               <closer>
+                  <salute>My Lord,</salute> 
+                  <signed>Your Lordſhip's moſt humble Servant, Yeſter, J. P. C. G.</signed>
+                  <dateline>Sedr. <date>4th Decr. 1699.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:206268:4"/>
+               <head>The Company's Addreſs to His Majeſty.</head>
+               <opener>
+                  <salute>May it pleaſe Your Majeſty,</salute>
+               </opener>
+               <p>WE your Majeſty's moſt dutiful Subjects, the Council-General of the Company of <hi>Scotland,</hi> Trading to <hi>Africa</hi> and the <hi>Indies,</hi> having formerly, in moſt humble manner, repreſented to your Majeſty, how that we have, with much Trouble, great Expence, and after many unex<g ref="char:EOLhyphen"/>pected Stops and Difficulties, ſetled a Planta<g ref="char:EOLhyphen"/>tion and Colony on the North-ſide of the <hi>Iſth<g ref="char:EOLhyphen"/>mus</hi> of <hi>Darien,</hi> on the Continent of <hi>America,</hi> preciſely in the Terms of your Majeſty's Acts of Parliament and Letters Pattent under the Great Seal of this Kingdom.</p>
+               <p>We now, in all Duty and Humility, beg leave to repreſent further to your Majeſty, That whereas in the ſaid Acts of Parliament and Letters Pattent there is a ſpecial Clauſe, by which your Majeſty is graciouſly pleas'd to promiſe, That if contrary to the Rights and Privileges therein mention'd, or contrary to the General Treaties of Peace and Commerce between your Majeſty and any Potentate Prince or State in Amity with your Majeſty, the Ships, Goods, Merchandize, Perſons, or other Effects whatſoever, belonging to the ſaid Com<g ref="char:EOLhyphen"/>pany, ſhould happen to be ſtopp'd, detain'd, embezell'd, or taken away, or in any ſort pre<g ref="char:EOLhyphen"/>judic'd or damnified, That your Majeſty would
+<pb n="6" facs="tcp:206268:5"/>interpoſe you Royal Authority, to have Reſti<g ref="char:EOLhyphen"/>tution, Reparation, and Satisfaction made for the dammage done; and that upon the publick Charge.</p>
+               <p>And whereas likewiſe by the X and XI Ar<g ref="char:EOLhyphen"/>ticles of the Treaty concluded between the Crowns of <hi>Great Britain</hi> and <hi>Spain,</hi> at <hi>Madrid</hi> the 8/18 day of <hi>July</hi> 1670. It is ſpecialy ſtipu<g ref="char:EOLhyphen"/>lated, that in caſe any of the Subjects of ei<g ref="char:EOLhyphen"/>ther the Confederates with their Shipping be forc'd at any time, through ſtreſs of Weather, purſute of Pyrates, or Shipwrack to retreat and enter for ſhelter, and harbour into any of the Rivers, Creeks, Bays, Havens, Roads and Ports belonging to the other in <hi>America,</hi> That the Perſons ſo Shipwrack'd or forced a Shoar, ſhall in no ſort be detain'd Priſoners but that on the contrary, all friendly aſſiſtance and re<g ref="char:EOLhyphen"/>lief ſhall be adminiſtred to their diſtreſs, both for the Suſtenance of their Perſons and repa<g ref="char:EOLhyphen"/>ration of their Ships and conveniency of their Voyage, and that Letters of ſafe conduct ſhall be given them, for their free and quiet paſſage thence.</p>
+               <p>Yet notwithſtanding thereof a Ship call'd the <hi>Dolphin</hi> belonging to our Company, being ſent from our ſaid Colony to ſome of the Leeward Iſlands, with a Cargo for buying Proviſions, and the ſaid Ship in a few days time after her go<g ref="char:EOLhyphen"/>ing to Sea and plying to windward, for the ſpeedier paſſage ſtricking unfortunately upon a Rock, ſprung a Leak and being forced to run aſhoar, under the very Walls of <hi>Carthagena</hi> to eſcape Shipwrack, not only the ſaid Ship and
+<pb n="7" facs="tcp:206268:5"/>Goods were violently ſeiz'd and diſpos'd of as prize but alſo the Men to the number of thirty, and a Boy (whoſe Names are here ſubjoyned) were detain'd and made cloſe Priſoners, con<g ref="char:EOLhyphen"/>trary to the expreſs Terms of the ſaid Trea<g ref="char:EOLhyphen"/>ty.</p>
+               <p>Upon notice whereof, the Council of the ſaid Colony ſent, in your Majeſty's and ſaid Com<g ref="char:EOLhyphen"/>pany's Name, a Meſſenger with a very civil Letter, to the Governor of <hi>Carthagena,</hi> to de<g ref="char:EOLhyphen"/>mand your ſaid Subjects, who were wrongfully detain'd Priſoners, as aforeſaid; and likewiſe Reſtitution of the ſaid Ship and Goods, pur<g ref="char:EOLhyphen"/>ſuant to the Treaty above-recited; and ſent alſo Copies of the Acts of Parliament and Let<g ref="char:EOLhyphen"/>ters Patent above-mention'd, in <hi>Engliſh, Latin,</hi> and <hi>Spaniſh,</hi> for the Governors information; but inſtead of any compliance to thoſe juſt and reaſonable Demands, the Meſſenger was threat<g ref="char:EOLhyphen"/>ned to be put in Chains, and not ſo much as allow'd to ſee any of the ſaid Priſoners.</p>
+               <p>And being lately aſſur'd that (notwithſtan<g ref="char:EOLhyphen"/>ding of all endeavours hitherto us'd for their Liberation) they are, contrary to the Rules of Chriſtianity, Humanity, and the Law of Na<g ref="char:EOLhyphen"/>tions, ſtill detain'd Priſoners under very ſevere treatments, we think our ſelves in Duty and Conſcience bound to lay their deplorable Caſe before your Majeſty; and for that effect have commiſſioned Lord <hi>Baſil Hamilton,</hi> one of our number, to preſent this our humble Addreſs on their behalf to your Majeſty, and to give your Majeſty a further account of our Com<g ref="char:EOLhyphen"/>pany's other Affairs, as he is particularly intru<g ref="char:EOLhyphen"/>ſted
+<pb n="8" facs="tcp:206268:6"/>therein; not doubting but that your Ma<g ref="char:EOLhyphen"/>jeſty will, in your Royal Wiſdom, take ſpee<g ref="char:EOLhyphen"/>dy and effectual Meaſures for the redreſs of thoſe Dammages, and the freedom of thoſe di<g ref="char:EOLhyphen"/>ſtreſſed Priſoners, in the number of which there are ſome young Gentlemen of good Quality, and related to the beſt Families in this King<g ref="char:EOLhyphen"/>dom.</p>
+               <closer>
+                  <dateline>
+                     <hi>Signed at</hi> Edinburgh <hi>the</hi> 4th <hi>Day of</hi> 
+                     <date>Decem<g ref="char:EOLhyphen"/>ber, 1699;</date> 
+                     <hi>In Name, Preſence, and by Order of the ſaid Council-General, by,</hi>
+                  </dateline>
+                  <signed>May it pleaſe your Majeſty, <hi>Your Majeſty's moſt Faithful, moſt Dutiful, moſt Humble, and moſt Obedient Subject and Servant,</hi> Sic Subſcribitur, Yeſter, J. P. C. G.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="9" facs="tcp:206268:6"/>
+               <head>The Chancellours Letter to the Directors of the Company.</head>
+               <opener>
+                  <dateline>
+                     <hi>Holyrood-houſe, Saturday</hi> 
+                     <date> the 6th of <hi>January</hi> 1700.</date>
+                  </dateline>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>HIs Majeſties Secretaries of State have ac<g ref="char:EOLhyphen"/>quainted me, That the King will not al<g ref="char:EOLhyphen"/>low my Lord <hi>Baſil Hamilton</hi> acceſs to him, Be<g ref="char:EOLhyphen"/>cauſe he did not wait on his Majeſty when he was formerly in <hi>London.</hi> And that he has ne<g ref="char:EOLhyphen"/>ver ſince given any publick Evidence of his Loy<g ref="char:EOLhyphen"/>alty, nor has hitherto owned and acknowledg<g ref="char:EOLhyphen"/>ed His Majeſties Government. But his Majeſty will not refuſe to hear what my Lord <hi>Baſil</hi>'s Inſtructions are, and has Declared his willing<g ref="char:EOLhyphen"/>neſs to be inform'd of what the Company deſires. And if my Lord <hi>Baſil</hi> will give in Writing to His Majeſties Secretaries, what he had to repreſent, His Majeſty will receive In<g ref="char:EOLhyphen"/>formation from their hands of what is De<g ref="char:EOLhyphen"/>manded, and will give his Anſwer to the Com<g ref="char:EOLhyphen"/>pany; His Majeſty doth not refuſe to Receive the Petition, tho' he will not allow my Lord <hi>Baſil</hi> to be the preſenter of it. This is from</p>
+               <trailer>
+                  <hi>To the Right Honourable The Court of Directors of the Company of</hi> Scotland, <hi>Trading to</hi> Africa <hi>and the</hi> Indies.</trailer>
+               <closer>
+                  <signed>
+                     <hi>Right Honorable Your very humble Servant, Sic ſubſcribitur</hi> Marchmont Chancellour.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="10" facs="tcp:206268:7"/>
+               <head>
+                  <hi>A Letter from the Directors of the Company, to the Secretaries for</hi> Scotland.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>THE Council-General of our Company, having lately at a very frequent Meeting; thought fit to ſend up one of their own Num<g ref="char:EOLhyphen"/>ber, with an Addreſs to His Majeſty, and with In<g ref="char:EOLhyphen"/>ſtructions concerning the Contents of our Com<g ref="char:EOLhyphen"/>pany's former Petitions; they thought that none could be more Capable to Diſcharge that Truſt, than Lord <hi>Baſil Hamilton,</hi> as being throughly Verſed in the courſe of the Compa<g ref="char:EOLhyphen"/>ny's Affairs, nor more acceptable to His Ma<g ref="char:EOLhyphen"/>jeſty, as having had no objection made againſt him when he was appointed; ſeveral Lords of His Majeſties Privy Council being then preſent. And the Council-General having ſignified ſo much to your Lordſhip by a Letter, wherein they entreated; that you would be pleaſed to Introduce him to the King, and give your Con<g ref="char:EOLhyphen"/>currence in procuring a Gracious Return to what he had in Commiſſion, and which he was to Communicate to from Lordſhip. We are ſurpriz'd to find this day by a Letter to the Lord Chancellour; that the King will not al<g ref="char:EOLhyphen"/>low Lord <hi>Baſil Hamilton</hi> to have Acceſs, becauſe he did not wait upon His Majeſty when he was formerly at <hi>London.</hi> But his Lordſhip being ſent by, and having his Inſtructions from the Council-General: We the Court of Directors can ſay nothing to it, other than to entreat your Lordſhip that you'd uſe your Intereſt with
+<pb n="11" facs="tcp:206268:7"/>His Majeſty, to allow Lord <hi>Baſil Hamilton,</hi> to have Acceſs to His Royal Perſon, leaſt the Re<g ref="char:EOLhyphen"/>fuſal thereof be not only a great Diſcourage<g ref="char:EOLhyphen"/>ment to the Company and all its Wellwiſhers, under its preſent Difficulties and repeated Misfortunes; but give alſo ground to the World, to believe that his not being allow'd Acceſs to His Majeſty, is upon the Account of his carrying an Addreſs from this Company, which every Body knows ſtands in great need of, and has a juſt Right to his Majeſties Royal Favour and Protection, And which being the General Concern of the whole Nation, is confidently expected and ſignified to your Lordſhip, by Order and in name of the Court of Directors by</p>
+               <closer>
+                  <dateline>Edinbur. <date>
+                        <hi>the</hi> 9th <hi>day of</hi> Janu<g ref="char:EOLhyphen"/>ary, 1700.</date>
+                  </dateline>
+                  <salute>My Lord,</salute> 
+                  <signed> 
+                     <hi>Your Lordſhip's moſt humble Servant,</hi> Sic Subſcribiter Pat. Scot. I. P. C. D.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:206268:8"/>
+               <head>
+                  <hi>From the Company, to my Lord</hi> Baſil Hamilton.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>WE have your Lordſhips Letter, of the 2d. Inſtant, by yeſterdays Poſt in relation to the Contents of which, we ſend you here<g ref="char:EOLhyphen"/>with the Copy of a Letter, which we have written by this Night's Poſt, to both the Secretaries of State, and likewiſe the Copy of another Letter, which we had this morning from the Lord Chancellour upon the ſame head.</p>
+               <p>As our Company cannot but have a juſt ſenſe of your Lordſhips generous condeſcenſion, to the Council-General's Requeſt, in undertaking a troubleſome Journey to <hi>London,</hi> this time of the Year, to wait upon and Solicite his Maje<g ref="char:EOLhyphen"/>ſty about our Company's Affairs, with no other view but frankly to ſerve the Intereſt of your Country to the manifeſt neglect of your own, So we cannot but heartily regret that the car<g ref="char:EOLhyphen"/>rying of the Company's Commiſſion, ſhould be the occaſion of putting any ſuch diſtinguiſhing Mark, upon a perſon of your Lordſhips Quali<g ref="char:EOLhyphen"/>ty and merit, as to be denied acceſs to His Majeſties Perſon, becauſe you did not wait up<g ref="char:EOLhyphen"/>on His Majeſty when you were formerly at <hi>London.</hi> No body can be ſo blind as not to ſee through this. And whereas we never could hear that your Lordſhip did ever any thing unworthy of your Quality, or inconſiſtent with
+<pb n="13" facs="tcp:206268:8"/>the duty of a Loyal and Peaceable Subject. So we are ſtill hopeful, that by your own prudent management, His Majeſty may be undeceived of any miſrepreſentation, he might have had of you, and that he will yet condeſend to grant your Lordſhip acceſs to his Royal Per<g ref="char:EOLhyphen"/>ſon, with the Companies ſaid Addreſs, and give you a gracious Anſwer, to the Contents thereof, and to the other particulars menti<g ref="char:EOLhyphen"/>on'd in your Inſtructions; An account where<g ref="char:EOLhyphen"/>of would be very welcome News, in the midſt of our misfortunes, to the Company in general, and particularly to the Court of Directors in whoſe name, and by whoſe order this is from,</p>
+               <closer>
+                  <salute>My Lord,</salute> 
+                  <signed>
+                     <hi>Your Lordſhip's moſt humble Servant, </hi>Pat. Scot. I. P. C. D.</signed>
+                  <dateline>Edinburgh <date>
+                        <hi>the</hi> 9th <hi>day of</hi> January, 1700.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>His Majeſties Letter to His Council of</hi> Scotland. William R.</head>
+               <opener>
+                  <salute>Sic ſupraſcribiter,</salute>
+               </opener>
+               <p>RIght Truſty and Right well Beloved Cou<g ref="char:EOLhyphen"/>ſin and Councellor, Right Truſty and en<g ref="char:EOLhyphen"/>tirely beloved Couſin an Councellour, Right Truſty and well Beloved Couſins and Coun<g ref="char:EOLhyphen"/>cellours,
+<pb n="14" facs="tcp:206268:9"/>Right Truſty and well Beloved Coun<g ref="char:EOLhyphen"/>cellours, And Truſty and well Beloved Coun<g ref="char:EOLhyphen"/>cellours, We greet you well, WHEREAS The Council-General of the Company of that our Kingdom, Trading to <hi>Africa</hi> and the <hi>Indies,</hi> By their Letter to our Secretaries of the Fourth day of <hi>December</hi> laſt; did deſire, That they might give their concurrence to pro<g ref="char:EOLhyphen"/>cure a Gracious Return from Us, to the Petition which they had ſent with Lord <hi>Baſil Hamilton.</hi> And the ſaid Lord <hi>Baſil,</hi> having communicated to Our Secretaries, both the foreſaid Petition and His Inſtructions; And they having Repreſented to Us what is deſired in behalf of the ſaid Company, and We having refuſed the ſaid Lord <hi>Baſil Hamilton</hi> Acceſs, to preſent the foreſaid Petition to Us, for the Reaſons, We did Order Our Secretaries to Communicate to Our Chancellour; Yet We being willing to give an Anſwer to what the ſaid Company does deſire. You are therefore to call for ſome of the Council-General, and acquaint them that We are Reſolv'd in the terms of our Treaties, to demand from the King of <hi>Spain,</hi> that Captain <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Pinkar<g ref="char:EOLhyphen"/>ton</hi> and theſe of his Crew, who are detained Priſoners at <hi>Carthagena</hi> be Releaſed and ſet at Liberty. And you may alſo acquaint them, That our Subjects of that our Kingdom, ſhall be allowed the ſame Liberty of Trade, that others enjoy with the Engliſh Plantations; And in general, You may ſignify to them, Our Re<g ref="char:EOLhyphen"/>ſolution to promote and advance the Trade of the Kingdom, And the three Friggots they
+<pb n="15" facs="tcp:206268:9"/>demand, having been given by Parliament for guarding the Trade of the Coaſts, We are not reſolved to diſpoſe of them till We have the Advice of Our Parliament, And ſo We bid you heartily Farewe. Given at your Court at <hi>Kenſington,</hi> the Tenth day of <hi>January</hi> 1700, and of our Reign the Eleventh Year, By His Ma<g ref="char:EOLhyphen"/>jeſties Command <hi>Sic. Sub. Seafield</hi> Directed thus, To Our Right Truſty and Right well Beloved Couſin and Councellour, Our Right Truſty and Entirely Beloved Couſin and Councellour, Our Right Truſty and well Beloved Couſins and Councellours, Our Right Truſty and well Be<g ref="char:EOLhyphen"/>loved Councellours, And to our Truſty and well Beloved Councellours, <hi>Patrick</hi> Earl of <hi>Marchmont</hi> our Chancellour, and the reſt of the Lords and others of our Privy Council, of our Ancient Kingdom of <hi>Scotland.</hi> This is a true Copy taken from the Principal and Subſcribed by <hi>Sic Subſcribitur.</hi>
+               </p>
+               <closer>
+                  <signed>Gilb. Eliot Cls. Sti. Con.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>An other Letter from the Company, to my Lord</hi> Baſil Hamilton.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>YOur Lordſhips Letters to the Court of Directors, having been by them Com<g ref="char:EOLhyphen"/>municated to us, We cannot but acknowledge, that as you have at our requeſt Frankly un<g ref="char:EOLhyphen"/>dertaken a troubleſome Journey and Task, to ſerve the Intereſt of your Country and our
+<pb n="16" facs="tcp:206268:10"/>Company: So we are fully ſatisfied, that you have acquitted your ſelf with a great deal of Prudence and Diſcretion in the execution of that Charge, for which we render you moſt hearty Thanks: But finding by a Letter of the 10th. inſtant from His Majeſty to the Lords of His Privy Council, and by a former from the Secretaries of State, to the Lord Chancel<g ref="char:EOLhyphen"/>lour (Copies of both which are herewith in<g ref="char:EOLhyphen"/>cloſed) That His Majeſty has determin'd not to allow your Lordſhip acceſs to preſent our Addreſs, nor to impart to His Majeſty, what other things we gave you in charge by your Inſtructions. We are heartily Sorry that your Lordſhips carrying of our Addreſs, ſhould bring you under any ſuch diſagreeable cir<g ref="char:EOLhyphen"/>cumſtances with His Majeſty. But the matter being ſo, we cannot think it juſt to detain your Lordſhip any Longer at <hi>London,</hi> to the neglect of your own affairs at home, and do therefore hereby ſignify that your Lordſhip may uſe your own Freedom, to take Journey homeward as ſoon as you think fit, and as may ſute beſt with your conveniency. This is in name, preſence and by order of the Coun<g ref="char:EOLhyphen"/>cil-General of our Company from</p>
+               <closer>
+                  <salute>My Lord,</salute> 
+                  <signed>
+                     <hi>Your Lordſhip's moſt humble Servant,</hi> John Home P.</signed>
+                  <dateline>Edinburgh <date>
+                        <hi>the</hi> 29th <hi>of</hi> January, 1700.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206268:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
